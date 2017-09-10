@@ -7,14 +7,14 @@ BST is not big enough), then throw an `Exception`.
 For example, consider the following binary search tree.
 
     ~~~~
-              8
-            /  \
-           /    \
-          3     10
-         / \      \
-        1   6      14
-           / \    /
-          4   7  13
+          8
+        /  \
+       /    \
+      3     10
+     / \      \
+    1   6      14
+       / \    /
+      4   7  13
     ~~~~
 
 The k=0 smallest key is 1, the k=3 smallest key is 6, and the k=7 smallest key is 13.
